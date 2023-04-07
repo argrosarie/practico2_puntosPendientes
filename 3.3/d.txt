@@ -1,0 +1,1 @@
+Cuando el valor excede al limite del tipo de variable asignado, da un número negativo.

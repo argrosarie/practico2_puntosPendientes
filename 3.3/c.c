@@ -6,6 +6,7 @@ int main()
     double unDouble = 1.7E+308;
     int unEntero = 2147483647;
     short unShort = 32767;
+    //short unShort = 40000;
     char unCaracter = 'Z';
     long unLong = 2147483647;
 
